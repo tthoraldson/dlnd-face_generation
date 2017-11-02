@@ -1,4 +1,14 @@
 floyd_requirements.txt
+.ipynb_checkpoints/*
 helper.py
 problem_unittests.py
 .git/*
+
+data/*
+._dlnd_face_generation.html
+._dlnd_face_generation.ipynb
+
+.floydexpt
+.floydignore
+
+__pycache__/*
